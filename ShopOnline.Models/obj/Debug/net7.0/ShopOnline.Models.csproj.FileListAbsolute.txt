@@ -1,0 +1,12 @@
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net7.0/ShopOnline.Models.deps.json
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net7.0/ShopOnline.Models.dll
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net7.0/ShopOnline.Models.pdb
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.csproj.AssemblyReference.cache
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.AssemblyInfoInputs.cache
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.AssemblyInfo.cs
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.csproj.CoreCompileInputs.cache
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.dll
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/refint/ShopOnline.Models.dll
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ShopOnline.Models.pdb
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net7.0/ref/ShopOnline.Models.dll

@@ -7,8 +7,12 @@ public class ShopOnlineDbContext : DbContext
 {
     public ShopOnlineDbContext(DbContextOptions<ShopOnlineDbContext> options):base(options)
     {
-        
-    }
+	    // Constructor to initialize the DbContext with the provided options
+    } 
+    
+    // Configure the model and define the database schema
+            
+    // Add sample data for the 'Product' entity
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -1,0 +1,22 @@
+DTO stands for Data Transfer Object. DTOs are objects used to transfer data between different layers or components of an application. They are used to encapsulate data and provide a standardized format for communication.
+
+Here are some reasons why DTOs are used:
+
+Data encapsulation: DTOs encapsulate data from the underlying data models/entities. 
+They provide a separate representation of data that can be used to transfer only the necessary information between different layers or components of an application.
+
+Data transformation: DTOs allow for transforming and shaping data from one format to another. 
+For example, they can be used to flatten or combine data from multiple entities into a single object, making it easier to consume or display in a specific context.
+
+Reducing over-fetching and under-fetching: In some scenarios, the data required by the client or consumer may not align perfectly with the structure of the underlying data models. 
+DTOs can be used to fetch and transfer only the required data, avoiding over-fetching (retrieving more data than needed) or under-fetching (not retrieving enough data).
+
+Versioning and backward compatibility: DTOs can help with versioning and maintaining backward compatibility in APIs. 
+By using DTOs, you can control the structure and representation of data exposed through the API, allowing for changes in the underlying data models without affecting the API contract.
+
+Security and privacy: DTOs can be used to expose a subset of data while hiding sensitive or private information. 
+They provide a layer of abstraction that allows controlling what data is exposed to the client or consumer.
+
+Optimizing performance: DTOs can help improve performance by reducing the amount of data transferred between layers. 
+By sending only the required data, network bandwidth and processing time can be reduced.
+Overall, DTOs provide a structured and standardized way to transfer data between different parts of an application, helping to decouple the layers and components and providing flexibility and control over the data being transferred.
