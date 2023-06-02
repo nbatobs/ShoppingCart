@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline.Web", "ShopOnline.Web\ShopOnline.Web.csproj", "{C6011BA9-D75F-468E-BBDD-154E2841D979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline.API", "ShopOnline.API\ShopOnline.API.csproj", "{81D8099E-C8FC-4798-82F2-F6B14BCA95F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6011BA9-D75F-468E-BBDD-154E2841D979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6011BA9-D75F-468E-BBDD-154E2841D979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6011BA9-D75F-468E-BBDD-154E2841D979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6011BA9-D75F-468E-BBDD-154E2841D979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D8099E-C8FC-4798-82F2-F6B14BCA95F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D8099E-C8FC-4798-82F2-F6B14BCA95F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D8099E-C8FC-4798-82F2-F6B14BCA95F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D8099E-C8FC-4798-82F2-F6B14BCA95F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
