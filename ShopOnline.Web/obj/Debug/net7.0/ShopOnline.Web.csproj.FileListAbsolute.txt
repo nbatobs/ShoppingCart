@@ -826,3 +826,12 @@
 /Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net7.0/refint/ShopOnline.Web.dll
 /Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net7.0/ShopOnline.Web.pdb
 /Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net7.0/ref/ShopOnline.Web.dll
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net7.0/wwwroot/_framework/ShopOnline.Models.dll
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net7.0/wwwroot/_framework/ShopOnline.Models.pdb
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net7.0/wwwroot/_framework/ShopOnline.Models.pdb.gz
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net7.0/wwwroot/_framework/ShopOnline.Models.dll.gz
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net7.0/ShopOnline.Models.dll
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net7.0/ShopOnline.Models.pdb
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net7.0/build-gz/uAtaQ2VH.gz
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net7.0/build-gz/g1bf8eFG.gz
+/Users/tobi/Desktop/C#_learn/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net7.0/scopedcss/Pages/DisplayProducts.razor.rz.scp.css

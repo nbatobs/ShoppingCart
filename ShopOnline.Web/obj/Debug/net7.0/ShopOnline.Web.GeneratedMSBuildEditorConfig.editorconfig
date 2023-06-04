@@ -28,8 +28,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Shared/SurveyPrompt.razor]
@@ -39,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/DisplayProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGlzcGxheVByb2R1Y3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4gq5bd70tk
 
 [/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=

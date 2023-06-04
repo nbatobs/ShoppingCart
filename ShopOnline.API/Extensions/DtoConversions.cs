@@ -22,4 +22,17 @@ public static class DtoConversions
                 CategoryName = productCategory.Name
             }).ToList();
     }
+    /* This code defines an extension method ConvertDto within a static class DtoConversions.
+     The purpose of this method is to convert a collection of Product entities into a collection of ProductDto objects.
+
+The ConvertDto method takes two parameters: products, which is an IEnumerable of Product objects, and productCategories, which is an IEnumerable of ProductCategory objects. 
+It performs a join operation between the products and productCategories based on their CategoryId and Id properties, respectively.
+
+Inside the select statement, a new ProductDto object is created for each matching pair of product and productCategory. 
+The properties of the ProductDto object are populated with values from the corresponding Product and ProductCategory objects.
+
+Finally, the result of the conversion is returned as a List of ProductDto objects.
+
+To summarize, this code provides a method that converts a collection of Product entities into a collection of ProductDto objects by performing a join operation with a collection of ProductCategory entities and mapping the properties accordingly.
+*/
 }
