@@ -5,7 +5,8 @@ namespace ShopOnline.API.Extensions;
 
 public static class DtoConversions
 {
-    public static IEnumerable<ProductDto> ConvertDto(this IEnumerable<Product> products,IEnumerable<ProductCategory> productCategories)
+    public static IEnumerable<ProductDto> ConvertDto(this IEnumerable<Product> products,
+        IEnumerable<ProductCategory> productCategories)
     {
         return (from product in products
             join productCategory in productCategories
@@ -22,8 +23,24 @@ public static class DtoConversions
                 CategoryName = productCategory.Name
             }).ToList();
     }
-    /* This code defines an extension method ConvertDto within a static class DtoConversions.
-     The purpose of this method is to convert a collection of Product entities into a collection of ProductDto objects.
+
+    public static ProductDto ConvertToDto(this Product product, ProductCategory productCategory)
+    {
+        return new ProductDto
+        {
+            Id = product.Id,
+            Name = product.Name,
+            Description = product.Description,
+            ImageURL = product.ImageURL,
+            Price = product.Price,
+            Qty = product.Qty,
+            CategoryId = product.CategoryId,
+            CategoryName = productCategory.Name
+        };
+    }
+}
+/* This code defines an extension method ConvertDto within a static class DtoConversions.
+ The purpose of this method is to convert a collection of Product entities into a collection of ProductDto objects.
 
 The ConvertDto method takes two parameters: products, which is an IEnumerable of Product objects, and productCategories, which is an IEnumerable of ProductCategory objects. 
 It performs a join operation between the products and productCategories based on their CategoryId and Id properties, respectively.
@@ -35,4 +52,3 @@ Finally, the result of the conversion is returned as a List of ProductDto object
 
 To summarize, this code provides a method that converts a collection of Product entities into a collection of ProductDto objects by performing a join operation with a collection of ProductCategory entities and mapping the properties accordingly.
 */
-}
