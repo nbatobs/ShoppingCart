@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/DisplayErrror.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGlzcGxheUVycnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Pages/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvcHBpbmdDYXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tobi/Desktop/C\#_learn/ShopOnlineSolution/ShopOnline.Web/Shared/SurveyPrompt.razor]
